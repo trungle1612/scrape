@@ -1,0 +1,513 @@
+---
+- :dispensary_name: ''
+  :dispensary_url: http://www.affinityne.com/
+  :brand: Affinity - Boston
+  :products: Medical Sales
+- :dispensary_name: Berkshire Roots - East Boston
+  :dispensary_url: https://berkshireroots.com/
+  :brand: Berkshire Roots - East Boston
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Ermont
+  :dispensary_url: https://ermontinc.org/
+  :brand: Ermont
+  :products: Medical Sales, Handicapped Accessible
+- :dispensary_name: Ethos - Dorchester
+  :dispensary_url: https://ethoscannabis.com/dispensary-locations/ma/dorchester/
+  :brand: Ethos - Dorchester
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Garden Remedies - Newton
+  :dispensary_url: https://gardenremedies.com/
+  :brand: Garden Remedies - Newton
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Mayflower Medicinals - Allston
+  :dispensary_url: http://www.mayflowermedicinals.com/
+  :brand: Mayflower Medicinals - Allston
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: NETA - Brookline
+  :dispensary_url: https://netacare.org/locations/neta-brookline/
+  :brand: NETA - Brookline
+  :products: Medical Sales, Recreational Sales, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://patriotcare.org/
+  :brand: Patriot Care - Boston
+  :products: Medical Sales
+- :dispensary_name: ''
+  :dispensary_url: http://www.mypureoasis.com/
+  :brand: Pure Oasis
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://www.sanctuarymed.com/
+  :brand: Sanctuary Medicinals - Brookline
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://masswellspring.org/
+  :brand: Mass Wellspring
+  :products: Medical Sales
+- :dispensary_name: ''
+  :dispensary_url: http://atgcannabis.com/
+  :brand: Alternative Therapies Group - Amesbury
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://cnastores.com/
+  :brand: CNA Stores - Amesbury
+  :products: Recreational Sales
+- :dispensary_name: Mass Alternative Care - Amherst
+  :dispensary_url: https://www.massaltcare.com/
+  :brand: Mass Alternative Care - Amherst
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: RISE Dispensaries - Amherst (Medical)
+  :dispensary_url: https://risecannabis.com/dispensaries/massachusetts/amherst/
+  :brand: RISE Dispensaries - Amherst (Medical)
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: RISE Dispensaries - Amherst
+  :dispensary_url: https://risecannabis.com/dispensaries/massachusetts/amherst/
+  :brand: RISE Dispensaries - Amherst
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Apothca - Arlington
+  :dispensary_url: http://www.apothca.com/
+  :brand: Apothca - Arlington
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://elev8cannabis.com/
+  :brand: Elev8 Cannabis - Athol
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://novafarms.com/
+  :brand: Nova Farms - Attleboro
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://centralavecare.org/
+  :brand: Central Ave Compassionate Care
+  :products: Medical Sales, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://www.gagecannabisco.com/
+  :brand: Gage Cannabis Co. - Ayer
+  :products: Recreational Sales, Cards
+- :dispensary_name: Canna Corner - Becket
+  :dispensary_url: https://cannacornerbecket.com/
+  :brand: Canna Corner - Becket
+  :products: Recreational Sales, Handicapped Accessible
+- :dispensary_name: Alternative Compassion Services
+  :dispensary_url: http://acscompassion.com/
+  :brand: Alternative Compassion Services
+  :products: Medical Sales, Handicapped Accessible
+- :dispensary_name: Theory Wellness - Bridgewater
+  :dispensary_url: https://theorywellness.org/
+  :brand: Theory Wellness - Bridgewater
+  :products: Medical Sales, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://ingoodhealthma.com/
+  :brand: In Good Health - Brockton
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: Revolutionary Clinics - Fresh Pond
+  :dispensary_url: https://www.revolutionaryclinics.org
+  :brand: Revolutionary Clinics - Fresh Pond
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Revolutionary Clinics - Central Square
+  :dispensary_url: https://www.revolutionaryclinics.org/
+  :brand: Revolutionary Clinics - Central Square
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://www.greengold.group/
+  :brand: Green Gold - Charlton
+  :products: Medical Sales
+- :dispensary_name: ''
+  :dispensary_url: https://www.westernfrontus.com/
+  :brand: Western Front
+  :products: Recreational Sales
+- :dispensary_name: Mass Alternative Care - Chicopee
+  :dispensary_url: https://www.massaltcare.com/
+  :brand: Mass Alternative Care - Chicopee
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Theory Wellness - Chicopee
+  :dispensary_url: https://theorywellness.org/
+  :brand: Theory Wellness - Chicopee
+  :products: Medical Sales, Recreational Sales, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://www.sanctuarymeddanvers.com/
+  :brand: Sanctuary Medicinals - Danvers
+  :products: Medical Sales
+- :dispensary_name: ''
+  :dispensary_url: https://greenstarherb.com/dracut/
+  :brand: GreenStar Herbals
+  :products: Recreational Sales
+- :dispensary_name: INSA - Easthampton
+  :dispensary_url: https://myinsa.com/
+  :brand: INSA - Easthampton
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://libertycannabis.com/
+  :brand: Liberty - Easthampton
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: The Verb is Herb
+  :dispensary_url: https://cannaprovisionsgroup.com/dispensaries/easthampton/
+  :brand: The Verb is Herb
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: BASK
+  :dispensary_url: http://www.cometobask.com/
+  :brand: BASK
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Nature's Medicines - Fall River
+  :dispensary_url: http://naturesmedicines.com/fall-river-ma-dispensary/
+  :brand: Nature's Medicines - Fall River
+  :products: Medical Sales, ATM On-Site
+- :dispensary_name: Northeast Alternatives
+  :dispensary_url: https://www.nealternatives.com/
+  :brand: Northeast Alternatives
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Sunnyside Cannabis Dispensary – Fall River
+  :dispensary_url: https://bit.ly/3ffSvBh
+  :brand: Sunnyside Cannabis Dispensary – Fall River
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: AMP (Atlantic Medicinal Partners) - Fitchburg
+  :dispensary_url: https://www.ampma.org/locations/fitchburg-dispensary/
+  :brand: AMP (Atlantic Medicinal Partners) - Fitchburg
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Ethos - Fitchburg
+  :dispensary_url: https://ethoscannabis.com/dispensary-locations/ma/fitchburg/
+  :brand: Ethos - Fitchburg
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://www.localroots.cc/
+  :brand: Local Roots - Fitchburg
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://www.cultivatemass.com/
+  :brand: Cultivate - Framingham
+  :products: Recreational Sales
+- :dispensary_name: Temescal Wellness - Framingham
+  :dispensary_url: http://ma.temescalwellness.com/
+  :brand: Temescal Wellness - Framingham
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Sanctuary Medicinals - Gardner
+  :dispensary_url: https://www.sanctuarymedgardner.com/
+  :brand: Sanctuary Medicinals - Gardner
+  :products: Medical Sales, Recreational Sales, Handicapped Accessible
+- :dispensary_name: Mission - Georgetown
+  :dispensary_url: https://missiondispensaries.com/
+  :brand: Mission - Georgetown
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://www.happyvalley.org/locations/gloucester-dispensary/
+  :brand: Happy Valley - Gloucester
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://www.calyxberkshire.com/
+  :brand: Calyx - Berkshire
+  :products: Recreational Sales
+- :dispensary_name: Rebelle
+  :dispensary_url: https://letsrebelle.com/
+  :brand: Rebelle
+  :products: Recreational Sales, Handicapped Accessible
+- :dispensary_name: Theory Wellness - Great Barrington
+  :dispensary_url: https://theorywellness.org
+  :brand: Theory Wellness - Great Barrington
+  :products: Medical Sales, Recreational Sales, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://patriotcare.org/
+  :brand: Patriot Care - Greenfield
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://www.theheirloomcollective.us/
+  :brand: The Heirloom Collective
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: Curaleaf - Hanover
+  :dispensary_url: https://shop-hanoverma.curaleaf.com/
+  :brand: Curaleaf - Hanover
+  :products: Medical Sales
+- :dispensary_name: CNA Stores - Haverhill
+  :dispensary_url: http://cnastores.com/
+  :brand: CNA Stores - Haverhill
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://www.stemhaverhill.com/
+  :brand: Stem - Haverhill
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://www.bostonbudfactory.com/
+  :brand: Boston Bud Factory
+  :products: Recreational Sales
+- :dispensary_name: Canna Provisions - Holyoke
+  :dispensary_url: https://cannaprovisionsgroup.com/locations/holyoke
+  :brand: Canna Provisions - Holyoke
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://holyokecannabis.com/
+  :brand: Holyoke Cannabis
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://www.nativesunwellness.com/
+  :brand: Native Sun Wellness
+  :products: Recreational Sales
+- :dispensary_name: Temescal Wellness - Hudson
+  :dispensary_url: http://ma.temescalwellness.com/
+  :brand: Temescal Wellness - Hudson
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Canna Provisions - Lee
+  :dispensary_url: https://cannaprovisionsgroup.com/
+  :brand: Canna Provisions - Lee
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Cultivate - Leicester
+  :dispensary_url: https://www.cultivatemass.com/
+  :brand: Cultivate - Leicester
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://patriotcare.org/
+  :brand: Patriot Care - Lowell
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: Apothca - Lynn
+  :dispensary_url: http://www.apothca.com/
+  :brand: Apothca - Lynn
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: Ethos - Lynn
+  :dispensary_url: https://ethoscannabis.com/dispensary-locations/ma/lynn/
+  :brand: Ethos - Lynn
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://gardenremedies.com/
+  :brand: Garden Remedies - Marlborough
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Cards, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://www.mm-ma.org/
+  :brand: Triple M - Mashpee
+  :products: Medical Sales, ATM On-Site, Cards, Handicapped Accessible
+- :dispensary_name: Garden Remedies - Melrose
+  :dispensary_url: https://gardenremedies.com/
+  :brand: Garden Remedies - Melrose
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Panacea Wellness
+  :dispensary_url: https://panaceawellness.com/location
+  :brand: Panacea Wellness
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Cards, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://naturesremedyma.com/
+  :brand: Nature's Remedy - Millbury
+  :products: Recreational Sales, Cards, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://www.commcan.com/
+  :brand: CommCan - Millis
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://www.thegreenladydispensary.com/
+  :brand: The Green Lady Dispensary - Nantucket
+  :products: Recreational Sales
+- :dispensary_name: Sira Naturals - Needham
+  :dispensary_url: https://siranaturals.org/
+  :brand: Sira Naturals - Needham
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://www.mjsmkt.com/
+  :brand: MJ's Market
+  :products: Recreational Sales
+- :dispensary_name: Colonial Cannabis - Northampton
+  :dispensary_url: http://jackscannabisco.com/
+  :brand: Colonial Cannabis - Northampton
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://netacare.org/locations/neta-northampton/
+  :brand: NETA - Northampton
+  :products: Medical Sales, Recreational Sales, Handicapped Accessible
+- :dispensary_name: Resinate - Northampton
+  :dispensary_url: https://www.iresinate.com/marijuana-dispensary-in-northampton/
+  :brand: Resinate - Northampton
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Turning Leaf Centers (Coming Soon)
+  :dispensary_url: http://www.turningleafcenters.com/
+  :brand: Turning Leaf Centers (Coming Soon)
+  :products: Recreational Sales
+- :dispensary_name: Silver Therapeutics - Orange
+  :dispensary_url: https://silver-therapeutics.com/location/williamstown/
+  :brand: Silver Therapeutics - Orange
+  :products: Recreational Sales, Cards, Handicapped Accessible
+- :dispensary_name: Curaleaf - Oxford
+  :dispensary_url: https://shop-oxfordrec.curaleaf.com/
+  :brand: Curaleaf - Oxford
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: Berkshire Roots - Pittsfield
+  :dispensary_url: http://www.berkshireroots.com/
+  :brand: Berkshire Roots - Pittsfield
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Bloom Brothers
+  :dispensary_url: https://www.bloombrothers.com/
+  :brand: Bloom Brothers
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://jackscannabisco.com/
+  :brand: Colonial Cannabis - Pittsfield
+  :products: Recreational Sales
+- :dispensary_name: Temescal Wellness - Pittsfield
+  :dispensary_url: http://ma.temescalwellness.com/
+  :brand: Temescal Wellness - Pittsfield
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Triple M - Plymouth
+  :dispensary_url: http://www.mm-ma.org/
+  :brand: Triple M - Plymouth
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://www.zenleafdispensaries.com/
+  :brand: Zen Leaf - Plymouth
+  :products: Recreational Sales
+- :dispensary_name: b\well - Provincetown
+  :dispensary_url: http://www.bwell.life/
+  :brand: b\well - Provincetown
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://shop-provincetownrec.curaleaf.com/
+  :brand: Curaleaf - Provincetown
+  :products: Recreational Sales
+- :dispensary_name: CannaVana
+  :dispensary_url: https://www.cannavana.org/
+  :brand: CannaVana
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://www.healthcirclema.com/
+  :brand: Health Circle
+  :products: Recreational Sales
+- :dispensary_name: Silver Therapeutics - Boston (Coming Soon)
+  :dispensary_url: https://silver-therapeutics.com/location/boston/
+  :brand: Silver Therapeutics - Boston (Coming Soon)
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://www.capeanncannabis.com/
+  :brand: Cape Ann Cannabis
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://www.finefettle.com/
+  :brand: Fine Fettle - Rowley
+  :products: Recreational Sales
+- :dispensary_name: Alternative Therapies Group - Salem
+  :dispensary_url: http://atgcannabis.com/
+  :brand: Alternative Therapies Group - Salem
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://myinsa.com/
+  :brand: INSA - Salem
+  :products: Recreational Sales
+- :dispensary_name: Seagrass
+  :dispensary_url: http://seagrasssalem.com/
+  :brand: Seagrass
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://atgcannabis.com/
+  :brand: Alternative Therapies Group - Salisbury
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://zenleafdispensaries.com/
+  :brand: Zen Leaf - Sharon
+  :products: Recreational Sales
+- :dispensary_name: The Pass - Berkshires
+  :dispensary_url: https://www.thepass.co/
+  :brand: The Pass - Berkshires
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: The Botanist - Shrewsbury
+  :dispensary_url: http://www.shopbotanist.com/shrewsbury
+  :brand: The Botanist - Shrewsbury
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://www.verilife.com/ma/location/verilife-shrewsbury-ma
+  :brand: Verilife - Shrewsbury
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: http://www.solarthera.com/
+  :brand: Solar Therapeutics
+  :products: Recreational Sales
+- :dispensary_name: Liberty - Somerville
+  :dispensary_url: https://libertycannabis.com/
+  :brand: Liberty - Somerville
+  :products: Medical Sales
+- :dispensary_name: Revolutionary Clinics - Somerville
+  :dispensary_url: https://www.revolutionaryclinics.org/
+  :brand: Revolutionary Clinics - Somerville
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Sira Naturals - Somerville
+  :dispensary_url: https://siranaturals.org/
+  :brand: Sira Naturals - Somerville
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: CommCan - Southborough
+  :dispensary_url: https://www.commcan.com/
+  :brand: CommCan - Southborough
+  :products: Medical Sales
+- :dispensary_name: Affinity - West Springfield
+  :dispensary_url: https://www.affinityne.com/
+  :brand: Affinity - West Springfield
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: INSA - Springfield
+  :dispensary_url: https://myinsa.com/
+  :brand: INSA - Springfield
+  :products: Medical Sales
+- :dispensary_name: ''
+  :dispensary_url: http://libertycannabis.com/
+  :brand: Liberty - Springfield
+  :products: Recreational Sales
+- :dispensary_name: Commonwealth Alternative Care
+  :dispensary_url: https://www.commonwealthaltcare.org/
+  :brand: Commonwealth Alternative Care
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: 253 Farmacy
+  :dispensary_url: https://253farmacy.com/
+  :brand: 253 Farmacy
+  :products: Recreational Sales, ATM On-Site
+- :dispensary_name: ''
+  :dispensary_url: http://www.naturesremedyma.com/
+  :brand: Nature’s Remedy - Tyngsborough
+  :products: Recreational Sales, Cards, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://www.carolinescannabis.com/
+  :brand: Caroline's Cannabis
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://www.naturesmedicines.com/ux/dispensaries/massachusetts/uxbridge.html
+  :brand: Nature's Medicines - Uxbridge
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://shop-warerec.curaleaf.com/
+  :brand: Curaleaf - Ware
+  :products: Recreational Sales
+- :dispensary_name: Verilife - Wareham
+  :dispensary_url: http://www.verilife.com/
+  :brand: Verilife - Wareham
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Ethos - Watertown
+  :dispensary_url: https://ethoscannabis.com/dispensary-locations/ma/watertown
+  :brand: Ethos - Watertown
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Cannabis Connection
+  :dispensary_url: http://www.ccofwestfield.com/
+  :brand: Cannabis Connection
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Silver Therapeutics - Williamstown
+  :dispensary_url: https://silver-therapeutics.com/location/williamstown/
+  :brand: Silver Therapeutics - Williamstown
+  :products: Recreational Sales, Cards, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://www.sanctuarymed.com/
+  :brand: Sanctuary Medicinals - Woburn
+  :products: Medical Sales
+- :dispensary_name: Campfire Cannabis - West Boylston
+  :dispensary_url: https://campfirecannabis.com/
+  :brand: Campfire Cannabis - West Boylston
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: https://hellodiem.com/worcester
+  :brand: Diem - Worcester
+  :products: Recreational Sales
+- :dispensary_name: Good Chemistry - Worcester
+  :dispensary_url: https://ma.goodchem.org/
+  :brand: Good Chemistry - Worcester
+  :products: Medical Sales, Recreational Sales
+- :dispensary_name: Mayflower - Worcester
+  :dispensary_url: http://www.mayflowermass.com/
+  :brand: Mayflower - Worcester
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Mission - Worcester
+  :dispensary_url: https://missiondispensaries.com/
+  :brand: Mission - Worcester
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Resinate - Worcester
+  :dispensary_url: https://www.iresinate.com/
+  :brand: Resinate - Worcester
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: The Botanist - Worcester
+  :dispensary_url: https://www.shopbotanist.com/locations/worcester/
+  :brand: The Botanist - Worcester
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible

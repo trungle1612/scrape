@@ -1,0 +1,41 @@
+---
+- :dispensary_name: ''
+  :dispensary_url: http://www.affinityne.com/
+  :brand: Affinity - Boston
+  :products: Medical Sales
+- :dispensary_name: Berkshire Roots - East Boston
+  :dispensary_url: https://berkshireroots.com/
+  :brand: Berkshire Roots - East Boston
+  :products: Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Ermont
+  :dispensary_url: https://ermontinc.org/
+  :brand: Ermont
+  :products: Medical Sales, Handicapped Accessible
+- :dispensary_name: Ethos - Dorchester
+  :dispensary_url: https://ethoscannabis.com/dispensary-locations/ma/dorchester/
+  :brand: Ethos - Dorchester
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Garden Remedies - Newton
+  :dispensary_url: https://gardenremedies.com/
+  :brand: Garden Remedies - Newton
+  :products: Medical Sales, Recreational Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: Mayflower Medicinals - Allston
+  :dispensary_url: http://www.mayflowermedicinals.com/
+  :brand: Mayflower Medicinals - Allston
+  :products: Medical Sales, ATM On-Site, Handicapped Accessible
+- :dispensary_name: NETA - Brookline
+  :dispensary_url: https://netacare.org/locations/neta-brookline/
+  :brand: NETA - Brookline
+  :products: Medical Sales, Recreational Sales, Handicapped Accessible
+- :dispensary_name: ''
+  :dispensary_url: http://patriotcare.org/
+  :brand: Patriot Care - Boston
+  :products: Medical Sales
+- :dispensary_name: ''
+  :dispensary_url: http://www.mypureoasis.com/
+  :brand: Pure Oasis
+  :products: Recreational Sales
+- :dispensary_name: ''
+  :dispensary_url: https://www.sanctuarymed.com/
+  :brand: Sanctuary Medicinals - Brookline
+  :products: Medical Sales, Recreational Sales
