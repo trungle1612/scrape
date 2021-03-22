@@ -1,0 +1,8 @@
+<%= form_tag "/down_favicons", method: :get do %>
+  <%= text_field_tag :url, nil, placeholder: 'input url' %>
+  <%= submit_tag 'download' %>
+<% end %>
+
+<% if @maximum.present?  %>
+  <%= @maximum  %>
+<% end   %>
